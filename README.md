@@ -9,7 +9,7 @@ presentation artifacts.
 
 ## Artifacts
 
-- `Chem Corp - Problem Statement [Mohamed Saad].pptx`
+- `Chem Corp - Problem Statement [Wagdy Saad].pptx`
 - `ChemCorp.twbx`
 
 ## Status
